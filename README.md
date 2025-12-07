@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm <b>Cáo Mod</b></h1>
 
 <p align="center">
-  <i>an ordinary and very unlucky person </i>
+  <i>an dev and very unlucky person </i>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-- I just know how to do the basics and learn from others 
+- I just know how to do the basics script and learn from others 
 - I am really bad at fixing bugs
 - I have no talent either.
 
