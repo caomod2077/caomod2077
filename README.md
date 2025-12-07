@@ -40,8 +40,13 @@
 ---
 
 ## 📬 Contact
-- Server Discord: discord.gg/foxname 
-- username: Caomod2077
+- Owner: **Foxname**
+- Username: **Caomod2077**
+- Discord server: [discord.gg/foxname](https://discord.gg/foxname)
+
+<p align="center">
+  <img src="https://i.postimg.cc/VLygBC4R/Frame-14.png" width="280" style="border-radius: 15px;">
+</p>
 
 ---
 
