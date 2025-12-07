@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <b>Cáo Mod</b> 🦊</h1>
+<h1 align="center">Hello, I'm <b>Cáo Mod</b></h1>
 
 <p align="center">
   <i>an ordinary and very unlucky person </i>
