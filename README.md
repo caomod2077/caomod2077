@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/QMks9myL/045724cce8076ecb50e7e6a28f97a1a4.jpg" width="200" style="border-radius: 15px;">
+  <img src="https://i.postimg.cc/dV5pzfpN/d62c12ecbb9cc07d1780b25b63b1abde.jpg" width="300" style="border-radius: 15px;">
 </p>
 
 
