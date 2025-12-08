@@ -40,7 +40,7 @@
 ---
 
 ## 📬 Contact
-- Owner: **Foxname**
+- Owner **Foxname**
 - Username: **Caomod2077**
 - Discord server: [discord.gg/foxname](https://discord.gg/foxname)
 
