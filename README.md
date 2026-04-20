@@ -42,7 +42,7 @@
 ## 📬 Contact
 - Owner **Foxname**
 - Username: **Caomod2077**
-- Discord server: [discord.gg/foxname](https://discord.gg/foxname)
+- Discord server: [discord.gg/foxname](https://discord.gg/mSrMzVuc3h)
 
 <p align="center">
   <img src="https://i.postimg.cc/VLygBC4R/Frame-14.png" width="280" style="border-radius: 15px;">
